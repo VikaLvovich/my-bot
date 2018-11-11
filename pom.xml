@@ -57,7 +57,7 @@
                     <assembleDirectory>target</assembleDirectory>
                     <programs>
                         <program>
-                            <mainClass>Main</mainClass>
+                            <mainClass>by.bsuir.bot.main.Main</mainClass>
                             <name>workerBot</name>
                         </program>
                     </programs>
