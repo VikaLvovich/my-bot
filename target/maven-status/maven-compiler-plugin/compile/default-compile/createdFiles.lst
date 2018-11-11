@@ -1,2 +1,8 @@
-Main.class
-Bot.class
+by\bsuir\bot\entity\BalabolBot.class
+by\bsuir\bot\service\DialogflowService$1.class
+by\bsuir\bot\entity\TypeAgent.class
+by\bsuir\bot\entity\BalabolBot$1.class
+by\bsuir\bot\main\Main.class
+by\bsuir\bot\service\WeatherService.class
+by\bsuir\bot\service\DialogflowService.class
+by\bsuir\bot\service\YandexTranslator.class
